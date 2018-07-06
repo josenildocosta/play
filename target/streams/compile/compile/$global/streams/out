@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\jcosta\eclipse-workspace\playtce\app\controllers\PessoaController.java:12:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method find()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable pessoaService of type models.Pessoa[0m
+[0m[[0m[31merror[0m] [0m[0m        pessoaService.find().all().stream().forEach(System.out::println);[0m
